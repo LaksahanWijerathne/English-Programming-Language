@@ -64,3 +64,27 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 Special thanks to the contributors and the open-source community for their support and inspiration.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/LaksahanWijerathne"><img src="https://avatars3.githubusercontent.com/u/32154693?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Laksahan Wijerathna</b></sub></a><br /><a href="https://github.com/LaksahanWijerathne" title="Code">💻</a> <a href="https://github.com/LaksahanWijerathne" title="Tests">⚠️</a> <a href="https://github.com/LaksahanWijerathne" title="Documentation">📖</a> <a href="https://github.com/LaksahanWijerathne" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
