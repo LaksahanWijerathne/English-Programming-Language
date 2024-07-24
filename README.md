@@ -1,6 +1,7 @@
 <a href="https://www.buymeacoffee.com/LaksahanWijerathna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-The English Programming Language
+The English Programming Language!
+
 Welcome to the English Programming Language project! This project aims to create a simple, easy-to-understand programming language designed to be as close to natural English as possible. The goal is to make programming accessible to everyone, including children and beginners.
 
 Features
@@ -16,8 +17,8 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/custom-programming-language.git
-cd custom-programming-language
+git clone https://github.com/LaksahanWijerathne/English-Programming-Language.git
+cd English-programming-language
 Install the necessary dependencies (if any):
 
 sh
